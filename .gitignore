@@ -1,0 +1,24 @@
+# IDE相关
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# 编译输出
+target/
+build/
+*.class
+*.jar
+*.war
+
+# 日志文件
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 配置文件（如果有敏感信息不要上传）
+application-dev.properties
+application-prod.properties
