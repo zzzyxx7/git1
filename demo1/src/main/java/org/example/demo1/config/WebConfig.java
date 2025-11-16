@@ -1,7 +1,6 @@
-package config;
+package org.example.demo1.config;
 
-import interceptor.DemoInterceptor;
-import interceptor.TokenInterceptor;
+import org.example.demo1.interceptor.TokenInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

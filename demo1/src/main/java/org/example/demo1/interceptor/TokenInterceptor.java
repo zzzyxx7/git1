@@ -1,4 +1,4 @@
-package interceptor;
+package org.example.demo1.interceptor;
 
 import jakarta.servlet.Filter;
 import jakarta.servlet.FilterConfig;
